@@ -14,3 +14,4 @@ In summary, this project is an interactive dashboard to explore the Belly Button
 
 The dashboard is deployed on GitHub Pages and can be accessed https://github.com/michaelelkabas/belly-button-challenge/.
 To run this project locally, clone the repository above and open `index.html` in your web browser.
+To run thi using Git Pages, you may go to the following link: https://michaelelkabas.github.io/belly-button-challenge/
